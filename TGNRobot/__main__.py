@@ -92,7 +92,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/World_FriendShip_Group"
+            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/World_FriendShip_Zone"
         ),
     ],
     [
@@ -108,7 +108,7 @@ HELP_STRINGS = """
 START_IMG = "https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [](t.me/World_FriendShip_Group) \
+ You can support the project [](t.me/World_FriendShip_Zone) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
