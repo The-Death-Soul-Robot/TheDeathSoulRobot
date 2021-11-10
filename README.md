@@ -1,4 +1,4 @@
-<h1 align="center"><b> 𝄟⃝Sҽɳσɾιƚα Mυʂιƈ Bσƚ By Sumit Yadav </b></h1>
+<h1 align="center"><b> 𝄟⃝𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭 By Sumit Yadav </b></h1>
 
 <h4 align="center">𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞,𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 🎵 𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
