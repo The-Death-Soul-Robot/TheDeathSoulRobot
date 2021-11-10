@@ -82,17 +82,17 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ➣𝐒𝐞𝐧𝐨𝐫𝐢𝐭𝐚 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SenoritaProBot?startgroup=true"),
+            text="ᴀᴅᴅ ➣𝐒𝐞𝐧𝐨𝐫𝐢𝐭𝐚 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Senorita_Pro_Bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/Sumit9969/SuperiourProBot"),
         InlineKeyboardButton(
-            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/Superiour_Fed_Group"
+            text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Cute_Shezhadi012"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/Social_Friends_Club"
+            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/World_FriendShip_Group"
         ),
     ],
     [
@@ -108,7 +108,7 @@ HELP_STRINGS = """
 START_IMG = "https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [](t.me/Social_Friends_Club) \
+ You can support the project [](t.me/World_FriendShip_Group) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
