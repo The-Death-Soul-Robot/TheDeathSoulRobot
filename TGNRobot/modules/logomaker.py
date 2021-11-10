@@ -40,7 +40,7 @@ async def lego(event):
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Report @Social_Friends_Club, {e}')
+   await event.reply(f'Error Report @World_FriendShip_zone, {e}')
 
 
 
@@ -80,7 +80,7 @@ async def lego(event):
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Report @Social_Friends_Club, {e}')
+   await event.reply(f'Error Report @World_FriendShip_Zone, {e}')
 
 file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
