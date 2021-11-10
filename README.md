@@ -6,13 +6,13 @@
   <a href="https://github.com/Sumit9969/SuperiourProBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Social_Friends_Club"><img src="https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg" width="300"></a></p>
 
-## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@Social_Friends_Club](https://t.me/Superiour_x_Server)
+## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@World_FriendShip_Zone](https://t.me/The_Superiour_Network)
 
 # ❤️ Support
-<a href="https://t.me/Social_Friends_Club"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Superiour_x_Server"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/World_FriendShip_Zone"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/The_Superiour_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 > ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐖𝐡𝐨 𝐒𝐭𝐚𝐫𝐫𝐞𝐝 𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯, 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
@@ -28,8 +28,8 @@ The easiest way to deploy this Bot is via Heroku.
 * [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Sumit9969/PyrogramStringSession)
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️★𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯★🇮🇳⃝🕊️](https://t.me/Social_Friends_Club) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+- [🕊️★𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯★🇮🇳⃝🕊️](https://t.me/World_FriendShip_Zone) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/Social_Friends_Club"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superiour_x_Server"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/World_FriendShip_Zone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/The_Superiour_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
