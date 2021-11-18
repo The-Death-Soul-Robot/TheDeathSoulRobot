@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ [𝐒𝐞𝐧𝐨𝐫𝐢𝐭𝐚 𝐏𝐫𝐨 𝐁𝐨𝐭]
+ʜᴏɪ, ɪ ᴍ [𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭]
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
  [❤](https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg)
 """
@@ -82,7 +82,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ➣𝐒𝐞𝐧𝐨𝐫𝐢𝐭𝐚 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Senorita_Pro_Bot?startgroup=true"),
+            text="ᴀᴅᴅ ➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Superiour_Pro_Bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/Sumit9969/SuperiourProBot"),
