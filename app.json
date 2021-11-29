@@ -50,7 +50,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2107073714"
+         "value": "2102814853"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
@@ -115,7 +115,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "2107073714"
+         "value": "2102814853"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -129,22 +129,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "2107073714 2139897673 2139079938 "
+         "value": "2102814853 2139897673 2139079938 "
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "2107073714 2139897673 2139079938 "
+         "value": "2102814853 2139897673 2139079938 "
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "2107073714 2139897673 2139079938 "
+         "value": "2102814853 2139897673 2139079938 "
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "2107073714 2139897673 2139079938 "
+         "value": "2102814853 2139897673 2139079938 "
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
