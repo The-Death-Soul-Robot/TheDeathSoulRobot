@@ -366,7 +366,7 @@ def zaid_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_【♡➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣♡】licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @Superiour_Pro_Bot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/rakeshyt/TrishaManager).
+                 \nHere is the [💾Repository](https://github.com/Sumit9969/SuperiourProBot).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
