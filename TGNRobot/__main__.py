@@ -85,7 +85,7 @@ buttons = [
             text="ᴀᴅᴅ ➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Superiour_Pro_Bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝐘𝐨𝐮 𝐓𝐮𝐛𝐞", url=f"https://youtube.com/channel/UCkZgmvQtccyHq6JLCWsfGJQ"),
+        InlineKeyboardButton(text="⚡𝐘𝐨𝐮𝐓𝐮𝐛𝐞⚡", url=f"https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw"),
         InlineKeyboardButton(
             text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Cute_Shezhadi012"
         ),
