@@ -74,25 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ [𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭]
+ʜᴏɪ, ɪ ᴍ [𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕]
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg)
+ [💙](https://te.legra.ph/file/0b9bf1ac8a9a9b71c9201.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Superiour_Pro_Bot?startgroup=true"),
+            text="ᴀᴅᴅ ➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/The_Death_Soul_Robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="⚡𝐘𝐨𝐮𝐓𝐮𝐛𝐞⚡", url=f"https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw"),
         InlineKeyboardButton(
-            text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/Cute_Shezhadi012"
+            text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/The_Death_Soul"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/World_FriendShip_Zone"
+            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/Love_Dear_Comrades"
         ),
     ],
     [
@@ -103,12 +103,12 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://te.legra.ph/file/0b9bf1ac8a9a9b71c9201.jpg)"""
 
-START_IMG = "https://telegra.ph/file/7dc6fc82f97b90bb0a2ef.jpg"
+START_IMG = "https://te.legra.ph/file/0b9bf1ac8a9a9b71c9201.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [](t.me/World_FriendShip_Zone) \
+ You can support the project [](t.me/Love_Dear_Comrades) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -222,7 +222,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>【♡➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣♡】 is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>【♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡】 is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -357,14 +357,14 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [【♡➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣♡】](t.me/Superiour_Pro_Bot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [【♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡】](t.me/The_Death_Soul_Robot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_【♡➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣♡】licensed under the GNU General Public License v3.0_
+                 \n\n_【♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡】licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @Superiour_Pro_Bot\_Assistant.
                  \nHere is the [💾Repository](https://github.com/Sumit9969/SuperiourProBot).
                  \n\nIf you have any question about bot, let us know at .""",
@@ -393,7 +393,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [♡➣𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐮𝐫 𝐏𝐫𝐨 𝐁𝐨𝐭➣♡](t.me/Superiour_Pro_Bot)
+            text=""" Hi..🤗 I am [♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡](t.me/The_Death_Soul_Robot)
                  \nHere is the [Source Code](https://github.com/Sumit9969/SuperiourProBot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
