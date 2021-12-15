@@ -85,7 +85,7 @@ buttons = [
             text="ᴀᴅᴅ ➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/The_Death_Soul_Robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐘𝐨𝐮𝐓𝐮𝐛𝐞⚡", url=f"https://youtube.com/channel/UCtI7hbY-BD7wvuIzoSU0cEw"),
+        InlineKeyboardButton(text="🩸𝐘𝐨𝐮𝐓𝐮𝐛𝐞🩸", url=f"https://youtube.com/channel/UCm_EjIGly4IPRWijETD4VQw"),
         InlineKeyboardButton(
             text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/The_Death_Soul"
         ),
@@ -365,8 +365,8 @@ def zaid_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_【♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡】licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @Superiour_Pro_Bot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/Sumit9969/SuperiourProBot).
+                 \n❍ Assistant @The_Death_Soul_Robot\_Assistant.
+                 \nHere is the [💾Repository](https://https://github.com/The-Death-Soul-Robot/TheDeathSoulRobot).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -394,7 +394,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..🤗 I am [♡➣𝑻𝒉𝒆 𝑫𝒆𝒂𝒕𝒉 𝑺𝒐𝒖𝒍 𝑹𝒐𝒃𝒐𝒕➣♡](t.me/The_Death_Soul_Robot)
-                 \nHere is the [Source Code](https://github.com/Sumit9969/SuperiourProBot) .""",
+                 \nHere is the [Source Code](https://github.com/The-Death-Soul-Robot/TheDeathSoulRobot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -641,7 +641,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 412094015 and DONATION_LINK:
+        if OWNER_ID != 507498978 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
@@ -689,7 +689,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes I'm alive 😹")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Yes I'm alive ☠️")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
