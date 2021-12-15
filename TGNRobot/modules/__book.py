@@ -47,12 +47,12 @@ async def _(event):
 
         f.write("By @Sophia_Ro_bot")
         f.close()
-        caption = "A collabration with No-one.\n Join Support @SUPERIOR_SUPPORT"
+        caption = "A collabration with No-one.\n Join Support @Love_Dear_Comrades"
 
         await tbot.send_file(
             event.chat_id,
             "book.txt",
-            caption="**BOOKS GATHERED SUCCESSFULLY!\n\nBY SOPHIA. JOIN THE SUPPORT @SUPERIOR_SUPPORT.**",
+            caption="**BOOKS GATHERED SUCCESSFULLY!\n\nBY SOPHIA. JOIN THE SUPPORT @Love_Dear_Comrades.**",
         )
         os.remove("book.txt")
         await KkK.delete()
